@@ -7,7 +7,9 @@ Features include:
 * Displays Songs, Albums, and Artists on the results
 * Redirects to login to user Spotify account
 * Saving the playlist will post to users Spotify app
-* Ability to add and remove tracks by click the - or + button
+* Ability to add and remove tracks by click the - or + button <br>
+## Preview:
+![jamming app preview](src/Components/jamming.png)
 ## How to start
 Go to the jamming directory and in the command prompt,
 type: 
